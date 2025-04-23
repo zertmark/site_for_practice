@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/zerth/Documents/Github/site_for_practice",
+	"sourceRoot": "C:/Users/zerth/Documents/GitHub/site_for_practice",
 	"sources": [
 		"C:/Users/zerth/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.11.0/assets/scss/main.scss",
 		"../../../AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/twbs/bootstrap@v5.3.3+incompatible/scss/_functions.scss",
