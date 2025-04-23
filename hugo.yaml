@@ -1,5 +1,5 @@
-baseURL: https://zertmark.github.io/site_forpractice
-title: Проектная деятельность
+baseURL: https://zertmark.github.io/site_for_practice/
+title: PD_Project
 publishDir : "docs"
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Goldydocs</title>
-    <link>https://zertmark.github.io/site_forpractice/blog/</link>
+    <link>https://zertmark.github.io/site_for_practice/blog/</link>
     <description>Recent content in Blog on Goldydocs</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://zertmark.github.io/site_forpractice/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zertmark.github.io/site_for_practice/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
