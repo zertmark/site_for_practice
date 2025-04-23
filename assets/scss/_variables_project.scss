@@ -4,3 +4,54 @@ Add styles or override variables from the theme here.
 
 */
 
+// Increase base font size
+$font-size-base: 1.1rem;
+
+// Increase heading sizes
+h1 {
+  font-size: 2.5rem !important;
+}
+
+h2 {
+  font-size: 2rem !important;
+}
+
+h3 {
+  font-size: 1.75rem !important;
+}
+
+h4 {
+  font-size: 1.5rem !important;
+}
+
+// Increase paragraph and list text size
+p, ul, ol {
+  font-size: 1.2rem;
+}
+
+// Increase navigation text size
+.td-navbar .nav-link {
+  font-size: 1.2rem;
+}
+
+// Increase sidebar text size
+.td-sidebar-nav {
+  font-size: 1.1rem;
+}
+
+// Increase footer text size
+.td-footer {
+  font-size: 1.1rem;
+}
+
+// Main cover title styling
+.td-cover-block {
+    h1 {
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+        padding: 1rem;
+        background: rgba(0,0,0,0.4);
+        border-radius: 8px;
+        display: inline-block;
+    }
+}
+

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Goldydocs</title>
-    <link>https://zertmark.github.io/site_for_practice/tags/</link>
-    <description>Recent content in Tags on Goldydocs</description>
+    <title>Tags on Киберполигон</title>
+    <link>http://localhost:1313/site_for_practice/tags/</link>
+    <description>Recent content in Tags on Киберполигон</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Apr 2025 15:06:44 +0300</lastBuildDate>
-    <atom:link href="https://zertmark.github.io/site_for_practice/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/site_for_practice/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>https://zertmark.github.io/site_for_practice/tags/docs/</link>
+      <link>http://localhost:1313/site_for_practice/tags/docs/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://zertmark.github.io/site_for_practice/tags/docs/</guid>
+      <guid>http://localhost:1313/site_for_practice/tags/docs/</guid>
       <description></description>
     </item>
     <item>
       <title>Sample</title>
-      <link>https://zertmark.github.io/site_for_practice/tags/sample/</link>
+      <link>http://localhost:1313/site_for_practice/tags/sample/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://zertmark.github.io/site_for_practice/tags/sample/</guid>
+      <guid>http://localhost:1313/site_for_practice/tags/sample/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>https://zertmark.github.io/site_for_practice/tags/test/</link>
+      <link>http://localhost:1313/site_for_practice/tags/test/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://zertmark.github.io/site_for_practice/tags/test/</guid>
+      <guid>http://localhost:1313/site_for_practice/tags/test/</guid>
       <description></description>
     </item>
   </channel>

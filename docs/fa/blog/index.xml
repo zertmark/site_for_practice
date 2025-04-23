@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>بلاگ داکسی on اسناد گلدی</title>
-    <link>https://zertmark.github.io/site_for_practice/fa/blog/</link>
+    <link>http://localhost:1313/site_for_practice/fa/blog/</link>
     <description>Recent content in بلاگ داکسی on اسناد گلدی</description>
     <generator>Hugo</generator>
     <language>fa</language>
-    <atom:link href="https://zertmark.github.io/site_for_practice/fa/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/site_for_practice/fa/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

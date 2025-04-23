@@ -5,8 +5,8 @@ publishDir : "docs"
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
-contentDir: content/en
-defaultContentLanguage: en
+contentDir: content/ru
+# defaultContentLanguage: ru
 defaultContentLanguageInSubdir: false
 # Useful when translating.
 enableMissingTranslationPlaceholders: true
@@ -46,29 +46,10 @@ imaging:
 # Language configuration
 languages:
   en:
-    languageName: English
-    title: Goldydocs
+    languageName: Russian
+    title: Киберполигон
     params:
-      description: A Docsy example site
-  # cSpell:disable
-  'no':
-    languageName: Norsk
-    contentDir: content/no
-    title: Gulldoks
-    params:
-      description: Docsy er operativsystem for skyen
-      time_format_default: 02.01.2006
-      time_format_blog: 02.01.2006
-  fa:
-    languageDirection: rtl
-    languageName: "فارسی (Persian)"
-    contentDir: content/fa
-    title: "اسناد گلدی"
-    params:
-      description: "یک نمونه برای پوسته داکسی"
-      time_format_default: 2006.01.02
-      time_format_blog: 2006.01.02
-  # cSpell:enable
+      description: Сайт для практики
 
 markup:
   goldmark:
@@ -134,7 +115,7 @@ params:
 
   # Uncomment this if your GitHub repo does not have "main" as the default branch,
   # or specify a new value if you want to reference another branch in your GitHub links
-  github_branch: main
+  github_branch: master
 
   # Google Custom Search Engine ID. Remove or comment out to disable search.
   gcs_engine_id: d72aa9b2712488cc3
