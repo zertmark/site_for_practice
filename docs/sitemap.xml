@@ -2,106 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/site_for_practice/docs/overview/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/docs/eldar_reports/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/tasks/beds/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/tasks/beds/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/tasks/ponycopters/configuring-ponycopters/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/tasks/ponycopters/configuring-ponycopters/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/getting-started/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/examples/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/examples/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/tasks/ponycopters/launching-ponycopters/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/tasks/ponycopters/launching-ponycopters/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/tutorials/multi-bear/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/tutorials/multi-bear/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/tasks/porridge/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/tasks/porridge/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/concepts/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/concepts/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/docs/tasks/task/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/tasks/task/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/tutorials/tutorial2/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/tutorials/tutorial2/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/tasks/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/tasks/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/tutorials/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/tutorials/</loc>
-    <lastmod>2017-01-04T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/contribution-guidelines/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/reference/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/blog/news/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/contribution-guidelines/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/blog/releases/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/blog/news/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/reference/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/blog/releases/</loc>
-    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/blog/2018/10/06/easy-documentation-with-docsy/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/blog/2018/10/06/easy-documentation-with-docsy/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/blog/2018/10/06/second-blog-post/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/blog/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/blog/2018/01/04/another-great-release/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/blog/2018/10/06/second-blog-post/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/reference/parameter-reference/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/</loc>
-    <lastmod>2018-10-06T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/tasks/ponycopters/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/blog/2018/01/04/another-great-release/</loc>
-    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/categories/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/community/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/categories/rea/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/tags/docs/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/getting-started/example-page/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/blog/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/categories/examples/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/reference/parameter-reference/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/about_us/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/categories/placeholders/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/about_project/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/tags/sample/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/eldar_reports/example-page/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/tags/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
+    <loc>https://zertmark.github.io/site_for_practice/docs/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/tags/test/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/tasks/ponycopters/</loc>
-    <lastmod>2017-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/site_for_practice/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/site_for_practice/community/</loc>
-  </url><url>
-    <loc>http://localhost:1313/site_for_practice/search/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/search/</loc>
+    <lastmod>2025-04-23T18:51:10+03:00</lastmod>
   </url>
 </urlset>

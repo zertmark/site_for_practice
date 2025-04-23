@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Журнал
 menu: {main: {weight: 30}}
 ---
 

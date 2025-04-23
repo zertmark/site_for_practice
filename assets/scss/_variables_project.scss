@@ -22,6 +22,10 @@ h3 {
 
 h4 {
   font-size: 1.5rem !important;
+  border-radius: 8px;
+  text-align: center;
+  border-block-style: solid;
+  border-block-color: rgb(255, 255, 255);
 }
 
 // Increase paragraph and list text size
@@ -53,5 +57,21 @@ p, ul, ol {
         border-radius: 8px;
         display: inline-block;
     }
+    p{
+            font-size: 2.0rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+            padding: 1rem;
+            background: rgba(0,0,0,0.4);
+            border-radius: 8px;
+            display: inline-block;
+            content: center;
+    }
 }
+.test{
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+    align-content: vertical;
+    display: flex;
 
+}

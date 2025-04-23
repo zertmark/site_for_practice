@@ -1,4 +1,4 @@
 ---
-title: Search Results
+title: Результаты поиска
 layout: search
 ---
