@@ -1,7 +1,7 @@
 ---
 title: О нас
 linkTitle: О нас
-menu: {main: {weight: 10}}
+menu: {main: {weight: 2}}
 ---
 
 {{< blocks/cover title="О проекте" image_anchor="up" height="full" >}}

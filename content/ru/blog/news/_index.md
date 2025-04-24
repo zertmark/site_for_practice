@@ -1,4 +1,4 @@
 ---
-title: News
+title: Обновления и 
 weight: 20
 ---

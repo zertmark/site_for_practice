@@ -1,7 +1,7 @@
 ---
-title: Все наши отчётыстатьи
+title: Все наши отчёты/статьи
 linkTitle: Отчёты 
-menu: {main: {weight: 20}}
+menu: {main: {weight: 3}}
 sidebar_search_disable: true
 ---
 

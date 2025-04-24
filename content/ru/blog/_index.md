@@ -1,6 +1,6 @@
 ---
 title: Журнал
-menu: {main: {weight: 30}}
+menu: {main: {weight: 4}}
 ---
 
 This is the **blog** section. It has two categories: News and Releases.

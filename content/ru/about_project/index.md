@@ -1,7 +1,7 @@
 ---
 title: О проекте
 linkTitle: О проекте
-menu: {main: {weight: 10}}
+menu: {main: {weight: 1}}
 ---
 
 {{< blocks/cover title="О проекте" image_anchor="up" height="full" >}}

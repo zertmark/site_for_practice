@@ -55,6 +55,13 @@ p, ul, ol {
   align-content: vertical;
   display: flex; }
 
+.navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0; }
+  .navbar-brand .navbar-brand__logo svg {
+    margin: 0;
+    height: 30px; }
+
 :root,
 [data-bs-theme="light"] {
   --td-pre-bg: var(--bs-tertiary-bg); }
