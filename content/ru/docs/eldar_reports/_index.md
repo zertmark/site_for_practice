@@ -7,6 +7,6 @@ description: >
 ---
 
 ## Контакты
-- [Ельдар](https://t.me/skeatlox) 
+- [Эльдар](https://t.me/skeatlox) 
 
 - [О нас](../../about_us/)
