@@ -2,6 +2,7 @@
 date: 2025-05-15
 title: Сегодня группа выступила с предварительным отчетом по проекту РЭА
 linkTitle: Отчето по проекту РЭА
+weight: 3
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"
