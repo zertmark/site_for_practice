@@ -4,6 +4,7 @@ description:  Знакомимся с технологией для одновр
 linkedTitle: Отчёты Марка
 author: Пашковский Марк Анатольевич 
 categories: [Сайт]
+weight: 3
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

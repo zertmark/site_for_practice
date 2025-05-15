@@ -1,10 +1,10 @@
 <!doctype html>
 <html itemscope itemtype="http://schema.org/WebPage" lang="en" class="no-js">
-  <head>
+  <head><script src="/site_for_practice/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=site_for_practice/livereload" data-no-instant defer></script>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="canonical" type="text/html" href="https://zertmark.github.io/site_for_practice/docs/mark_reports/git_and_flask/">
-<link rel="alternate" type="application/rss&#43;xml" href="https://zertmark.github.io/site_for_practice/docs/mark_reports/git_and_flask/index.xml">
+<link rel="canonical" type="text/html" href="http://localhost:1313/site_for_practice/docs/mark_reports/git_and_flask/">
+<link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/site_for_practice/docs/mark_reports/git_and_flask/index.xml">
 <meta name="robots" content="noindex, nofollow">
 
 
@@ -21,7 +21,7 @@
 
 <title>Git и Flask | Киберполигон</title>
 <meta name="description" content="Отчёт по установке Github-репозитория CyberPolygon-front и создания базового проекта на Flask">
-<meta property="og:url" content="https://zertmark.github.io/site_for_practice/docs/mark_reports/git_and_flask/">
+<meta property="og:url" content="http://localhost:1313/site_for_practice/docs/mark_reports/git_and_flask/">
   <meta property="og:site_name" content="Киберполигон">
   <meta property="og:title" content="Git и Flask">
   <meta property="og:description" content="Отчёт по установке Github-репозитория CyberPolygon-front и создания базового проекта на Flask">
@@ -30,13 +30,12 @@
 
   <meta itemprop="name" content="Git и Flask">
   <meta itemprop="description" content="Отчёт по установке Github-репозитория CyberPolygon-front и создания базового проекта на Flask">
-  <meta itemprop="wordCount" content="941">
+  <meta itemprop="wordCount" content="959">
   <meta itemprop="keywords" content="Сайт">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Git и Flask">
   <meta name="twitter:description" content="Отчёт по установке Github-репозитория CyberPolygon-front и создания базового проекта на Flask">
-<link rel="preload" href="/site_for_practice/scss/main.min.4dbf9b849efe44348d2d897fe80d87aef4a640eba82b0093df8114eef9627a06.css" as="style" integrity="sha256-Tb&#43;bhJ7&#43;RDSNLYl/6A2HrvSmQOuoKwCT34EU7vliegY=" crossorigin="anonymous">
-<link href="/site_for_practice/scss/main.min.4dbf9b849efe44348d2d897fe80d87aef4a640eba82b0093df8114eef9627a06.css" rel="stylesheet" integrity="sha256-Tb&#43;bhJ7&#43;RDSNLYl/6A2HrvSmQOuoKwCT34EU7vliegY=" crossorigin="anonymous">
+<link href="/site_for_practice/scss/main.css" rel="stylesheet">
 <script
   src="https://code.jquery.com/jquery-3.7.1.min.js"
   integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
@@ -115,15 +114,19 @@ This is the multi-page printable view of this section.
 <div class="content">
       <p>241-329 Пашковский</p>
 <p><strong>Отчёт по установке Github-репозитория CyberPolygon-front и создания
-базового проекта на Flask</strong></p>
-<p>GitHub &mdash; это облачная платформа для хостинга и разработки программного
+базового проекта на Flask</strong>
+
+
+<div class="pageinfo pageinfo-primary">
+<p><strong>GitHub</strong> &ndash; это облачная платформа для хостинга и разработки программного
 обеспечения. На ней можно хранить проекты в репозиториях, управлять
-версиями кода и работать вместе с другими программистами.</p>
-<p>Git &mdash; распределённая система управления версиями</p>
-<p>Ход работы:</p>
-<ol>
-<li>Установка git:</li>
-</ol>
+версиями кода и работать вместе с другими программистами.
+<strong>Git</strong> &ndash; распределённая система управления версиями</p>
+
+</div>
+</p>
+<h2 id="часть-1-базовая-работа-с-git">Часть 1. Базовая работа с Git:<a class="td-heading-self-link" href="#%d1%87%d0%b0%d1%81%d1%82%d1%8c-1-%d0%b1%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d1%8f-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0-%d1%81-git" aria-label="Heading self-link"></a></h2>
+<h3 id="установка-git">Установка git:<a class="td-heading-self-link" href="#%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b0-git" aria-label="Heading self-link"></a></h3>
 <p>Скачиваем установщик git для Wind   ows с официального сайта и
 устанавливаем его:</p>
 <figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 946px">
@@ -154,9 +157,7 @@ This is the multi-page printable view of this section.
 <p>Git успешно установлен</p>
 <p><strong>Опционально, но более чем желательно зайти в собственный Github
 профиль при помощи RSA ключа</strong></p>
-<ol start="2">
-<li>Скачивание и настройка репозитория:</li>
-</ol>
+<h3 id="скачивание-и-настройка-репозитория">Скачивание и настройка репозитория:<a class="td-heading-self-link" href="#%d1%81%d0%ba%d0%b0%d1%87%d0%b8%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b8-%d0%bd%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b9%d0%ba%d0%b0-%d1%80%d0%b5%d0%bf%d0%be%d0%b7%d0%b8%d1%82%d0%be%d1%80%d0%b8%d1%8f" aria-label="Heading self-link"></a></h3>
 <figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 935px">
 <img class="card-img-top" src="/site_for_practice/docs/mark_reports/git_and_flask/image3_hu_6aee2975dd8d1603.png" width="925" height="261">
 <figcaption class="card-body px-0 pt-2 pb-0">
@@ -233,9 +234,9 @@ This is the multi-page printable view of this section.
 </figcaption>
 </figure>
 
-<p>Часть 2</p>
-<p>Создание проекта на Flask:</p>
-<p>2.1 Создаём директорию, виртуальное окружение и активируем его:</p>
+<h2 id="часть-2-проект-на-flask">Часть 2: проект на Flask<a class="td-heading-self-link" href="#%d1%87%d0%b0%d1%81%d1%82%d1%8c-2-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82-%d0%bd%d0%b0-flask" aria-label="Heading self-link"></a></h2>
+<h3 id="создание-проекта-на-flask">Создание проекта на Flask<a class="td-heading-self-link" href="#%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b0-%d0%bd%d0%b0-flask" aria-label="Heading self-link"></a></h3>
+<p>Создаём директорию, виртуальное окружение и активируем его:</p>
 <figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 744px">
 <img class="card-img-top" src="/site_for_practice/docs/mark_reports/git_and_flask/image9_hu_13796a86b5bf2917.png" width="734" height="694">
 <figcaption class="card-body px-0 pt-2 pb-0">
@@ -261,35 +262,56 @@ This is the multi-page printable view of this section.
 </figure>
 
 <p>Напишем базовый код:</p>
-<p>import os</p>
-<p>from flask import Flask</p>
-<p>def create_app(test_config=None):</p>
-<p>    <em># create and configure the app</em></p>
-<p>    app = Flask(<strong>name</strong>, instance_relative_config=True)</p>
-<p>    app.config.from_mapping(</p>
-<p>        SECRET_KEY=&lsquo;dev&rsquo;,</p>
-<p>        DATABASE=&lsquo;localhost:./database/flaskr.fdb&rsquo;,</p>
-<p>        USER=&lsquo;sysdba&rsquo;,</p>
-<p>        PASSWORD=&lsquo;masterkey&rsquo;</p>
-<p>    )</p>
-<p>    if test_config is None:</p>
-<p>        app.config.from_pyfile(&lsquo;config.py&rsquo;, silent=True)</p>
-<p>    else:</p>
-<p>        app.config.from_mapping(test_config)</p>
-<p>    try:</p>
-<p>        os.makedirs(app.instance_path)</p>
-<p>    except OSError:</p>
-<p>        pass</p>
-<p>    def hello():</p>
-<p>        return &lsquo;Hello, World!&rsquo;</p>
-<p>    return app</p>
-<figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 1927px">
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-py" data-lang="py"><span style="display:flex;"><span><span style="color:#204a87;font-weight:bold">import</span> <span style="color:#000">os</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#204a87;font-weight:bold">from</span> <span style="color:#000">flask</span> <span style="color:#204a87;font-weight:bold">import</span> <span style="color:#000">Flask</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#204a87;font-weight:bold">def</span> <span style="color:#000">create_app</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">test_config</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#204a87;font-weight:bold">None</span><span style="color:#000;font-weight:bold">):</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#ce5c00;font-weight:bold">*</span><span style="color:#8f5902;font-style:italic"># create and configure the app*</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#000">app</span> <span style="color:#ce5c00;font-weight:bold">=</span> <span style="color:#000">Flask</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">__name__</span><span style="color:#000;font-weight:bold">,</span> <span style="color:#000">instance_relative_config</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#204a87;font-weight:bold">True</span><span style="color:#000;font-weight:bold">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#000">app</span><span style="color:#ce5c00;font-weight:bold">.</span><span style="color:#000">config</span><span style="color:#ce5c00;font-weight:bold">.</span><span style="color:#000">from_mapping</span><span style="color:#000;font-weight:bold">(</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        <span style="color:#000">SECRET_KEY</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#39;dev&#39;</span><span style="color:#000;font-weight:bold">,</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        <span style="color:#000">DATABASE</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#39;localhost:./database/flaskr.fdb&#39;</span><span style="color:#000;font-weight:bold">,</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        <span style="color:#000">USER</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#39;sysdba&#39;</span><span style="color:#000;font-weight:bold">,</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        <span style="color:#000">PASSWORD</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#39;masterkey&#39;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#000;font-weight:bold">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#204a87;font-weight:bold">if</span> <span style="color:#000">test_config</span> <span style="color:#204a87;font-weight:bold">is</span> <span style="color:#204a87;font-weight:bold">None</span><span style="color:#000;font-weight:bold">:</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        <span style="color:#000">app</span><span style="color:#ce5c00;font-weight:bold">.</span><span style="color:#000">config</span><span style="color:#ce5c00;font-weight:bold">.</span><span style="color:#000">from_pyfile</span><span style="color:#000;font-weight:bold">(</span><span style="color:#4e9a06">&#39;config.py&#39;</span><span style="color:#000;font-weight:bold">,</span> <span style="color:#000">silent</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#204a87;font-weight:bold">True</span><span style="color:#000;font-weight:bold">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#204a87;font-weight:bold">else</span><span style="color:#000;font-weight:bold">:</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        <span style="color:#000">app</span><span style="color:#ce5c00;font-weight:bold">.</span><span style="color:#000">config</span><span style="color:#ce5c00;font-weight:bold">.</span><span style="color:#000">from_mapping</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">test_config</span><span style="color:#000;font-weight:bold">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#204a87;font-weight:bold">try</span><span style="color:#000;font-weight:bold">:</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        <span style="color:#000">os</span><span style="color:#ce5c00;font-weight:bold">.</span><span style="color:#000">makedirs</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">app</span><span style="color:#ce5c00;font-weight:bold">.</span><span style="color:#000">instance_path</span><span style="color:#000;font-weight:bold">)</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#204a87;font-weight:bold">except</span> <span style="color:#c00;font-weight:bold">OSError</span><span style="color:#000;font-weight:bold">:</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        <span style="color:#204a87;font-weight:bold">pass</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#204a87;font-weight:bold">def</span> <span style="color:#000">hello</span><span style="color:#000;font-weight:bold">():</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>        <span style="color:#204a87;font-weight:bold">return</span> <span style="color:#4e9a06">&#39;Hello, World!&#39;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#204a87;font-weight:bold">return</span> <span style="color:#000">app</span>
+</span></span></code></pre></div><figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 1927px">
 <img class="card-img-top" src="/site_for_practice/docs/mark_reports/git_and_flask/image11_hu_5bc07e2738d07589.png" width="1917" height="1078">
 <figcaption class="card-body px-0 pt-2 pb-0">
 <p class="card-text">
 
 
-Рисунок 11 -- результат работы базового кода в *__init__.py*
+Рисунок 11 - результат работы базового кода в __init__.py
 
 </p>
 </figcaption>
@@ -427,17 +449,34 @@ This is the multi-page printable view of this section.
 </span></span><span style="display:flex;"><span>    <span style="color:#000">app</span><span style="color:#ce5c00;font-weight:bold">.</span><span style="color:#000">cli</span><span style="color:#ce5c00;font-weight:bold">.</span><span style="color:#000">add_command</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">init_db_command</span><span style="color:#000;font-weight:bold">)</span>
 </span></span></code></pre></div><p>Меняем код в <code>__init__.py</code>, добавляя одну строку в функцию
 <code>create_app</code>:</p>
-<blockquote>
-<p><strong>другой код функции create_app</strong>   </p></blockquote>
+<p>Добавляем следующую строчку в функцию <code>create_app</code></p>
 <div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-py" data-lang="py"><span style="display:flex;"><span><span style="color:#000">db</span><span style="color:#ce5c00;font-weight:bold">.</span><span style="color:#000">init_app</span><span style="color:#000;font-weight:bold">(</span><span style="color:#000">app</span><span style="color:#000;font-weight:bold">)</span>
-</span></span></code></pre></div><p>Инициализируем базу данных с именем test:</p>
-<p><img src="./media/image12.png" alt="">{width=&ldquo;6.496527777777778in&rdquo;
-height=&ldquo;0.5944444444444444in&rdquo;}</p>
-<p>Рисунок 12 &ndash; инициализация базы данных</p>
-<p><img src="./media/image13.png" alt="">{width=&ldquo;3.7505238407699037in&rdquo;
-height=&ldquo;2.9274923447069114in&rdquo;}</p>
-<p>Рисунок 13 &ndash; результат создания базы данных</p>
-<p>2.2 Создание эскиза</p>
+</span></span></code></pre></div><p>Инициализируем базу данных с именем test:
+<figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 731px">
+<img class="card-img-top" src="/site_for_practice/docs/mark_reports/git_and_flask/image12_hu_c0a373bd01aacab4.png" width="721" height="66">
+<figcaption class="card-body px-0 pt-2 pb-0">
+<p class="card-text">
+
+
+Рисунок 12 - инициализация базы данных
+
+</p>
+</figcaption>
+</figure>
+</p>
+<figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 731px">
+<img class="card-img-top" src="/site_for_practice/docs/mark_reports/git_and_flask/image12_hu_c0a373bd01aacab4.png" width="721" height="66">
+<figcaption class="card-body px-0 pt-2 pb-0">
+<p class="card-text">
+
+
+Рисунок 13 - результат создания базы данных
+
+</p>
+</figcaption>
+</figure>
+
+<h3 id="создание-эскиза">Создание эскиза<a class="td-heading-self-link" href="#%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d1%8d%d1%81%d0%ba%d0%b8%d0%b7%d0%b0" aria-label="Heading self-link"></a></h3>
 <p>Сделаем модуль аутентификации auth.py:</p>
 <div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-py" data-lang="py"><span style="display:flex;"><span><span style="color:#204a87;font-weight:bold">import</span> <span style="color:#000">functools</span>
 </span></span><span style="display:flex;"><span>
@@ -633,7 +672,7 @@ height=&ldquo;2.9274923447069114in&rdquo;}</p>
 </span></span><span style="display:flex;"><span>        <span style="color:#204a87;font-weight:bold">return</span> <span style="color:#000">view</span><span style="color:#000;font-weight:bold">(</span><span style="color:#ce5c00;font-weight:bold">**</span><span style="color:#000">kwargs</span><span style="color:#000;font-weight:bold">)</span>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>    <span style="color:#204a87;font-weight:bold">return</span> <span style="color:#000">wrapped_view</span>
-</span></span></code></pre></div><p>3.1 Создадим шаблоны:</p>
+</span></span></code></pre></div><h2 id="создадим-шаблоны">Создадим шаблоны:<a class="td-heading-self-link" href="#%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%b4%d0%b8%d0%bc-%d1%88%d0%b0%d0%b1%d0%bb%d0%be%d0%bd%d1%8b" aria-label="Heading self-link"></a></h2>
 <blockquote>
 <p>base.html:</p></blockquote>
 <div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#8f5902;font-style:italic">&lt;!doctype html&gt;</span>
@@ -713,25 +752,47 @@ height=&ldquo;2.9274923447069114in&rdquo;}</p>
 </span></span><span style="display:flex;"><span><span style="color:#000;font-weight:bold">&lt;/</span><span style="color:#204a87;font-weight:bold">form</span><span style="color:#000;font-weight:bold">&gt;</span>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>{% endblock %}
-</span></span></code></pre></div><p>login.html:</p>
-<p>{% extends &lsquo;base.html&rsquo; %}</p>
-<p>{% block header %}</p>
-<h1>{% block title %}Log In{% endblock %}</h1>
-<p>{% endblock %}</p>
-<p>{% block content %}</p>
-<form method="post">
-<p>    <label for="username">Username</label></p>
-<p>    <input name="username" id="username" required></p>
-<p>    <label for="password">Password</label></p>
-<p>    <input type="password" name="password" id="password"
-required></p>
-<p>    <input type="submit" value="Log In"></p>
-</form>
-<p>{% endblock %}</p>
-<p>Получим результат:</p>
-<p><img src="./media/image14.png" alt="">{width=&ldquo;3.8062445319335083in&rdquo;
-height=&ldquo;2.9471423884514434in&rdquo;}</p>
-<p>Рисунок 14 &ndash; реализован вход в наше приложение</p>
+</span></span></code></pre></div><blockquote>
+<p>login.html:</p></blockquote>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{% extends &#39;base.html&#39; %}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>{% block header %}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#000;font-weight:bold">&lt;</span><span style="color:#204a87;font-weight:bold">h1</span><span style="color:#000;font-weight:bold">&gt;</span>{% block title %}Log In{% endblock %}<span style="color:#000;font-weight:bold">&lt;/</span><span style="color:#204a87;font-weight:bold">h1</span><span style="color:#000;font-weight:bold">&gt;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>{% endblock %}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>{% block content %}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#000;font-weight:bold">&lt;</span><span style="color:#204a87;font-weight:bold">form</span> <span style="color:#c4a000">method</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#34;post&#34;</span><span style="color:#000;font-weight:bold">&gt;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#000;font-weight:bold">&lt;</span><span style="color:#204a87;font-weight:bold">label</span> <span style="color:#c4a000">for</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#34;username&#34;</span><span style="color:#000;font-weight:bold">&gt;</span>Username<span style="color:#000;font-weight:bold">&lt;/</span><span style="color:#204a87;font-weight:bold">label</span><span style="color:#000;font-weight:bold">&gt;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#000;font-weight:bold">&lt;</span><span style="color:#204a87;font-weight:bold">input</span> <span style="color:#c4a000">name</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#34;username&#34;</span> <span style="color:#c4a000">id</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#34;username&#34;</span> <span style="color:#c4a000">required</span><span style="color:#000;font-weight:bold">&gt;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#000;font-weight:bold">&lt;</span><span style="color:#204a87;font-weight:bold">label</span> <span style="color:#c4a000">for</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#34;password&#34;</span><span style="color:#000;font-weight:bold">&gt;</span>Password<span style="color:#000;font-weight:bold">&lt;/</span><span style="color:#204a87;font-weight:bold">label</span><span style="color:#000;font-weight:bold">&gt;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#000;font-weight:bold">&lt;</span><span style="color:#204a87;font-weight:bold">input</span> <span style="color:#c4a000">type</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#34;password&#34;</span> <span style="color:#c4a000">name</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#34;password&#34;</span> <span style="color:#c4a000">id</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#34;password&#34;</span>
+</span></span><span style="display:flex;"><span><span style="color:#c4a000">required</span><span style="color:#000;font-weight:bold">&gt;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#000;font-weight:bold">&lt;</span><span style="color:#204a87;font-weight:bold">input</span> <span style="color:#c4a000">type</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#34;submit&#34;</span> <span style="color:#c4a000">value</span><span style="color:#ce5c00;font-weight:bold">=</span><span style="color:#4e9a06">&#34;Log In&#34;</span><span style="color:#000;font-weight:bold">&gt;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#000;font-weight:bold">&lt;/</span><span style="color:#204a87;font-weight:bold">form</span><span style="color:#000;font-weight:bold">&gt;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>{% endblock %}
+</span></span></code></pre></div><p>Получим результат:</p>
+<figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 903px">
+<img class="card-img-top" src="/site_for_practice/docs/mark_reports/git_and_flask/image14_hu_54b048e6dc42d67a.png" width="893" height="1080">
+<figcaption class="card-body px-0 pt-2 pb-0">
+<p class="card-text">
+
+
+Рисунок 14 - реализован вход в наше приложение
+
+</p>
+</figcaption>
+</figure>
+
 <p>Вывод:</p>
 <p>Скачан, собран и запущен репозиторий cyberpolygon-front, сделан простая
 форма входа и регистрации пользователя на Flask</p>
@@ -790,8 +851,8 @@ height=&ldquo;2.9471423884514434in&rdquo;}</p>
 </footer>
 
     </div>
-    <script src="/site_for_practice/js/main.min.420d1481d2b700ad5265bea8d92732e0d89c1ff8c3fc18e724670b8cf2b18362.js" integrity="sha256-Qg0UgdK3AK1SZb6o2Scy4NicH/jD/BjnJGcLjPKxg2I=" crossorigin="anonymous"></script>
-<script defer src="/site_for_practice/js/click-to-copy.min.73478a7d4807698aed7e355eb23f9890ca18fea3158604c8471746d046702bad.js" integrity="sha256-c0eKfUgHaYrtfjVesj&#43;YkMoY/qMVhgTIRxdG0EZwK60=" crossorigin="anonymous"></script>
+    <script src="/site_for_practice/js/main.js"></script>
+<script defer src="/site_for_practice/js/click-to-copy.js" crossorigin="anonymous"></script>
 <script src='/site_for_practice/js/tabpane-persist.js'></script>
 
   </body>
