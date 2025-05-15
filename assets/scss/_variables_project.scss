@@ -26,6 +26,13 @@ h4 {
   border-block-style: solid;
   border-block-color: rgb(255, 255, 255);
 }
+h6 {
+  font-size: 2rem !important;
+  border-radius: 8px;
+  text-align: center;
+  border-block-style: solid;
+  border-block-color: rgb(255, 255, 255);
+}
 
 // Increase paragraph and list text size
 p, ul, ol {

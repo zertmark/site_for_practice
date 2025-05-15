@@ -20,6 +20,13 @@ h4, .h4 {
   border-block-style: solid;
   border-block-color: white; }
 
+h6, .h6 {
+  font-size: 2rem !important;
+  border-radius: 8px;
+  text-align: center;
+  border-block-style: solid;
+  border-block-color: white; }
+
 p, ul, ol {
   font-size: 1.2rem; }
 
