@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/site_for_practice/docs/eldar_reports/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/docs/eldar_reports/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/mark_reports/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/docs/mark_reports/jinja/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/tasks/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/docs/mark_reports/git_and_flask/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/blog/news/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/docs/mark_reports/</loc>
+  </url><url>
+    <loc>https://zertmark.github.io/site_for_practice/docs/tasks/</loc>
+  </url><url>
+    <loc>https://zertmark.github.io/site_for_practice/docs/mark_reports/docker/</loc>
+  </url><url>
+    <loc>https://zertmark.github.io/site_for_practice/blog/news/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/blog/releases/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/blog/releases/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/blog/2018/10/06/easy-documentation-with-docsy/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/blog/2018/10/06/easy-documentation-with-docsy/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/blog/2018/10/06/second-blog-post/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/blog/2018/10/06/second-blog-post/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/blog/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/blog/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/</loc>
     <lastmod>2018-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/blog/2018/01/04/another-great-release/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/blog/2018/01/04/another-great-release/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/categories/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/mark_reports/git_and_flask/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/docs/eldar_reports/i2c_and_spi/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/eldar_reports/i2c_and_spi/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/categories/rea/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/categories/rea/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/tags/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/about_project/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/mark_reports/docker/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/about_project/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/sources/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/categories/%D1%81%D0%B0%D0%B9%D1%82/</loc>
   </url><url>
-    <loc>http://localhost:1313/site_for_practice/sources/</loc>
-  </url><url>
-    <loc>http://localhost:1313/site_for_practice/categories/%D1%81%D0%B0%D0%B9%D1%82/</loc>
-  </url><url>
-    <loc>http://localhost:1313/site_for_practice/about_us/</loc>
-  </url><url>
-    <loc>http://localhost:1313/site_for_practice/docs/mark_reports/jinja/</loc>
+    <loc>https://zertmark.github.io/site_for_practice/about_us/</loc>
   </url>
 </urlset>
