@@ -9,4 +9,4 @@ description: >
 ## Контакты
 - [Эльдар](https://t.me/skeatlox) 
 
-- [О нас](../../about_us/)
+- [О нас](../../../about_us/)
