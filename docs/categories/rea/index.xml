@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>REA on Киберполигон</title>
+    <link>https://zertmark.github.io/site_for_practice/categories/rea/</link>
+    <description>Recent content in REA on Киберполигон</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://zertmark.github.io/site_for_practice/categories/rea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I2C и SPI на Arduino</title>
+      <link>https://zertmark.github.io/site_for_practice/docs/eldar_reports/i2c_and_spi/example-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zertmark.github.io/site_for_practice/docs/eldar_reports/i2c_and_spi/example-page/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#%d0%b2%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;&#xA;&lt;p&gt;В данном отчете представлены результаты работы по изучению и практическому применению протоколов I2C и SPI на платформе Arduino. В рамках работы был выполнен обмен данными между двумя платами Arduino через TinkerCAD, а также проведен анализ необходимых комплектующих и пинов для киберполигона.&lt;/p&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;1-изучение-протоколов-i2c-и-spi&#34;&gt;1. Изучение протоколов I2C и SPI&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#1-%d0%b8%d0%b7%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d1%80%d0%be%d1%82%d0%be%d0%ba%d0%be%d0%bb%d0%be%d0%b2-i2c-%d0%b8-spi&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-i2c-inter-integrated-circuit&#34;&gt;1.1 I2C (Inter-Integrated Circuit)&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#11-i2c-inter-integrated-circuit&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;I2C — это последовательный протокол, который позволяет обмениваться данными между микроконтроллерами и различными периферийными устройствами. Основные характеристики I2C:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
