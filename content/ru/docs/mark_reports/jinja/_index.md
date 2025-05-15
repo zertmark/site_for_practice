@@ -1,7 +1,7 @@
 ---
 title: Учимся Jinja
 description:  Использование библиотеки Jinja2
-linkedTitle: Отчёты Марка
+linkedTitle: Учимся Jinja
 author: Пашковский Марк Анатольевич
 weight: 1
 categories: [Сайт]

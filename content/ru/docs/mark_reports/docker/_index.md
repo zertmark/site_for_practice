@@ -1,7 +1,7 @@
 ---
 title: Знакомство с Docker Compose
 description:  Знакомимся с технологией для одновременного управления нескольких контейнеров 
-linkedTitle: Отчёты Марка
+linkedTitle: Знакомство с Docker Compose
 author: Пашковский Марк Анатольевич 
 categories: [Сайт]
 weight: 3

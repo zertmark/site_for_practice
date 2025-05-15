@@ -1,4 +1,5 @@
 ---
-title: Обновления и 
-weight: 20
+title: Новости
+weight: 1
 ---
+asdsads
