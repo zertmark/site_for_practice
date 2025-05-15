@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Киберполигон</title>
-    <link>http://localhost:1313/site_for_practice/categories/</link>
+    <link>https://zertmark.github.io/site_for_practice/categories/</link>
     <description>Recent content in Categories on Киберполигон</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/site_for_practice/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zertmark.github.io/site_for_practice/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>REA</title>
-      <link>http://localhost:1313/site_for_practice/categories/rea/</link>
+      <link>https://zertmark.github.io/site_for_practice/categories/rea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/site_for_practice/categories/rea/</guid>
+      <guid>https://zertmark.github.io/site_for_practice/categories/rea/</guid>
       <description></description>
     </item>
   </channel>
