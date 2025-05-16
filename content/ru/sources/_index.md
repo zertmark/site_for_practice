@@ -22,7 +22,7 @@ description: >
   - [Работа с GPIO на Python](https://gpiozero.readthedocs.io/en/stable/)  
   - [Проекты на Python для Raspberry Pi](https://projects.raspberrypi.org/en/projects)
 
-## **Сайт**
+## **Киберполигон(Сайт)**
 
 - Docker & Docker-Compose  
   - [Официальная документация Docker](https://docs.docker.com/)  

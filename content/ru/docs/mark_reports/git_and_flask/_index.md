@@ -1,9 +1,9 @@
 ---
 title: Git и Flask 
 description:  Отчёт по установке Github-репозитория CyberPolygon-front и создания базового проекта на Flask
-linkedTitle: Git и Flask 
+linkTitle: Git и Flask 
 author: Пашковский Марк Анатольевич
-categories: [Сайт]
+categories: [Киберполигон(Сайт)]
 weight: 2
 resources:
   - src: "**.{png,jpg}"

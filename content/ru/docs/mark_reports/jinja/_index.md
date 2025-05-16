@@ -1,10 +1,10 @@
 ---
 title: Учимся Jinja
 description:  Использование библиотеки Jinja2
-linkedTitle: Учимся Jinja
+linkTitle: Учимся Jinja
 author: Пашковский Марк Анатольевич
 weight: 1
-categories: [Сайт]
+categories: [Киберполигон(Сайт)]
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"

@@ -3,7 +3,7 @@ title: I2C и SPI на Arduino
 description:  Применение протоколов I2C и SPI на платформе Arduino
 linkedTitle: Отчёты Эльдара
 author: Журавлев Эльдар Владимирович
-categories: [REA]
+categories: [РЭА]
 ---
 
 

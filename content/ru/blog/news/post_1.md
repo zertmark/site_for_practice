@@ -2,7 +2,7 @@
 date: 2025-05-12
 title: Начало сборки макета для киберполигона
 linkTitle: Начало сборки
-weight: 1
+categories: [РЭА]
 resources:
   - src: "**.{png,jpg}"
     title: "Image #:counter"
