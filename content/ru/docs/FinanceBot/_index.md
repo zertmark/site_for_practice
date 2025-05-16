@@ -2,6 +2,11 @@
 title: Отчёт о разработке Telegram-бота для управления складом и финансами  
 linkTitle: Telegram Bot
 weight: 3
+resources:
+  - src: "**.{png,jpg, gif}"
+    title: "Image #:counter"
+    params: 
+      byline: ""
 ---
 
 ## О проекте
@@ -480,4 +485,8 @@ graph LR
     A --> C[Мобильное приложение]
     A --> D[Интеграция с CRM]
 ```  
- 
+{{< imgproc image Fit "800x600" >}}
+Результат работы бота на практике  
+{{< /imgproc >}}
+## Ссылки:
+[![Static Badge](https://img.shields.io/badge/FinanceBot-_-black?logo=github&logoColor=white&labelColor=black)](https://github.com/zertmark/bot_for_practice)
