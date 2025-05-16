@@ -310,7 +310,7 @@ sequenceDiagram
     Bot-->>User: "Продано 5 шт!"
 ```
 Интеграция всех модулей в одном  
-**Финансовый модуль (Finance.py)**  
+**Главный модуль (FinaceBot.py)**  
 ```python
 import asyncio, os
 from telebot.types import Message
